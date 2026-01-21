@@ -1,6 +1,11 @@
-This is a Copied code.
-But But But...... I have made alterations based on my needs, 
-As I wanted an assistant inside my computer which can play/pause music with my voice-command call.
-Or Do other stuff (the Extra features) which are given by Kaushik Shresth. Check out his website
+Darkside Assistant is a Python-based AI voice assistant inspired by Jarvis.  
+It can listen to voice commands, understand them, and perform various system-level tasks such as opening applications, playing music, and responding with voice output.
 
-kaushikshresth.graphy.com
+## 🚀 Features
+
+- 🎤 Voice command recognition  
+- 🧠 Speech-to-text processing  
+- 🔊 Text-to-speech response  
+- 📂 Open applications using voice  
+- 🎵 Music playback control  
+- ⚙️ Easy to customize and extend
